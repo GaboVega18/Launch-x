@@ -1,0 +1,1 @@
+No me permitía subir la carpeta "env" completa, así que la comprimí.
